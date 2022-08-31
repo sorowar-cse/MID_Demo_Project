@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 ## I am
 # **Sorowar Mahabub**
-
+<img src="https://avatars.githubusercontent.com/u/76944781?v=4" style=" width: 155px; height: 175px; border: 2px solid red; border-radius: 25px" >
 Teaching Assistant(TA) || Pursuing B.Sc in CSE || International Islamic University Chittagong (IIUC)
- <img src="https://avatars.githubusercontent.com/u/76944781?v=4" alt="Employee data" title="Employee Data title" width="50%" height="50%>
 
 
 
